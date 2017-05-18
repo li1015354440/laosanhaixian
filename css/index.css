@@ -12,13 +12,14 @@
 .banner .banner-images > img {
   display: block;
   float: left;
-  width: 20%;
+  /*width: 100%;*/
+  height:100%;
 }
 .banner .pagination-content {
   position: absolute;
   bottom: .15rem;
   left: 41%;
-  width: 70px;
+  width: 80px;
   height: 10px;
   display: -webkit-flex; /* Safari */
   display: flex;
@@ -49,35 +50,35 @@
   width: 100%;
   margin-top: .2rem;
 }
-.nav > ul > li {
+.nav > ul li {
   float: left;
   width: 20%;
   height: .6rem;
 }
-.nav > ul > li > a {
+.nav > ul li > a {
   display: block;
   padding-top: .4rem;
   color: #333;
 }
-.nav > ul > li:first-child {
-  background: url(../img/jiezhi.png) no-repeat center 0;
-  background-size: 35%;
+.nav > ul li:first-child {
+  background: url(../img/虾.png) no-repeat center 0;
+  background-size: 45%;
 }
-.nav > ul > li:nth-child(2) {
-  background: url(../img/shoulian.png) no-repeat center 0;
-  background-size: 35%;
+.nav > ul li:nth-child(2) {
+  background: url(../img/虾.png) no-repeat center 0;
+  background-size: 45%;
 }
-.nav > ul > li:nth-child(3) {
-  background: url(../img/diaozui.png) no-repeat center 0;
-  background-size: 33%;
+.nav > ul li:nth-child(3) {
+  background: url(../img/虾.png) no-repeat center 0;
+  background-size: 45%;
 }
-.nav > ul > li:nth-child(4) {
-  background: url(../img/ershi.png) no-repeat center 0;
-  background-size: 26%;
+.nav > ul li:nth-child(4) {
+  background: url(../img/虾.png) no-repeat center 0;
+  background-size: 45%;
 }
-.nav > ul > li:last-child {
-  background: url(../img/quanbu.png) no-repeat center 0;
-  background-size: 30%;
+.nav > ul li:last-child {
+  background: url(../img/虾.png) no-repeat center 0;
+  background-size: 45%;
 }
 h1 {
   color: #262626;
