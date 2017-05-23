@@ -10,12 +10,10 @@
 /*.detail-img .banner-images {
   position: absolute;
   height: 3.1rem;
-}
-.detail-img .banner-images > img {
-  display: block;
-  float: left;
-  width: 100%;
 }*/
+.detail-img .banner-images > img {
+  width: 100%;
+}
 .detail-img .pagination-content {
   position: absolute;
   bottom: .15rem;
