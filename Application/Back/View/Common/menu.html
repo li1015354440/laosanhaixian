@@ -1,0 +1,99 @@
+<ul id="menu">
+    <li id="dashboard">
+        <a href="">
+            <i class="fa fa-dashboard fa-fw"></i>
+            <span>管理首页</span>
+        </a>
+    </li>
+    <li id="catalog">
+        <a class="parent">
+            <i class="fa fa-tags fa-fw"></i>
+            <span>商品管理</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Goods/list')}">商品列表</a>
+            </li>
+            <li class="">
+                <a href="{:U('Back/Goods/set')}">商品添加</a>
+            </li>
+        </ul>
+    </li>
+    <li id="design">
+        <a class="parent">
+            <i class="fa fa-television fa-fw"></i>
+            <span>商品单位</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Unit/list')}">单位展示</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Unit/set')}">单位添加</a>
+            </li>
+        </ul>
+    </li>
+    <li id="orders">
+        <a class="parent">
+            <i class="fa fa-puzzle-piece fa-fw"></i>
+            <span>订单管理</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Order/list')}">全部订单</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Order/list',['order_statu_id'=>1])}">未支付订单</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Order/list',['order_statu_id'=>2])}">未发货订单</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Order/list',['order_statu_id'=>3])}">未收货订单</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Order/list',['order_statu_id'=>4])}">已完成订单</a>
+            </li>
+        </ul>
+    </li>
+    <li id="extension">
+        <a class="parent">
+            <i class="fa fa-heart fa-fw"></i>
+            <span>商品类型</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Type/set')}">类型添加</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Type/list')}">类型展示</a>
+            </li>
+        </ul>
+    </li>
+
+    <li id="extension1">
+        <a class="parent">
+            <i class="fa fa-film fa-fw"></i>
+            <span>管理员</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Admin/set')}">添加管理员</a>
+            </li>
+            <li>
+                <a href="{:U('Back/Admin/list')}">管理员列表</a>
+            </li>
+        </ul>
+    </li>
+    <li id="reports">
+        <a class="parent">
+            <i class="fa fa-user fa-fw"></i>
+            <span>用户留言</span>
+        </a>
+        <ul>
+            <li>
+                <a href="{:U('Back/Ask/list')}">查看留言</a>
+            </li>
+        </ul>
+    </li>
+</ul>

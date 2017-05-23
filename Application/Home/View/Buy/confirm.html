@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>老三海鲜</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+    <form name='alipayment' action='__ROOT__/Payment/Alipay/wappay/pay.php' method='post'>
+        <input type="hidden" name="WIDout_trade_no" value="{$data['WIDout_trade_no']}" />
+        <input type="hidden" name="WIDsubject" value="{$data['WIDsubject']}" />
+        <input type="hidden" name="WIDtotal_amount" value="{$data['WIDtotal_amount']}"/>
+        <input type="hidden" name="WIDbody" value="{$data['WIDbody']}" />
+        <button id='sub' type="submit" style="display:none"></button>
+    </form>
+</body>
+<script>
+        window.onload=function () {
+            document.getElementById('sub').click();
+        }
+</script>
+</html>

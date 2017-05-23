@@ -1,0 +1,426 @@
+[ 2017-05-17T19:01:08+08:00 ] 101.226.102.52 /laosan/index.php/Home/User/my.html?nsukey=nDsnJXW5UQIaHbMP29TE5KEzbcpFOZ5zNRUcrH1h5RkxWpfE7JMxhxq6XEX%2FRptwGV%2Fxun7VGZc5Z1ZWCwEple%2B4G5jCwsBtXfjXDQW29QQN68mEWRzbSecWrz31%2Frjv1c95d2DxcFIUgu3kmk9j1zHHkX%2BxNZjRl5EuV6MQo3VYeigz8IkhiSFT7%2BGVL2u%2F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-05-17T19:01:08+08:00 ] 101.226.89.14 /laosan/index.php/Home/User/my.html?nsukey=nDsnJXW5UQIaHbMP29TE5KEzbcpFOZ5zNRUcrH1h5RkxWpfE7JMxhxq6XEX%2FRptwGV%2Fxun7VGZc5Z1ZWCwEple%2B4G5jCwsBtXfjXDQW29QQN68mEWRzbSecWrz31%2Frjv1c95d2DxcFIUgu3kmk9j1zHHkX%2BxNZjRl5EuV6MQo3VYeigz8IkhiSFT7%2BGVL2u%2F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-05-17T19:01:08+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html?nsukey=nDsnJXW5UQIaHbMP29TE5KEzbcpFOZ5zNRUcrH1h5RkxWpfE7JMxhxq6XEX%2FRptwGV%2Fxun7VGZc5Z1ZWCwEple%2B4G5jCwsBtXfjXDQW29QQN68mEWRzbSecWrz31%2Frjv1c95d2DxcFIUgu3kmk9j1zHHkX%2BxNZjRl5EuV6MQo3VYeigz8IkhiSFT7%2BGVL2u%2F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-05-17T19:01:10+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-05-17T19:01:14+08:00 ] 101.226.33.216 /laosan/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-05-17T19:01:18+08:00 ] 101.226.125.104 /laosan/index.php/Home/User/my.html?nsukey=nDsnJXW5UQIaHbMP29TE5KEzbcpFOZ5zNRUcrH1h5RkxWpfE7JMxhxq6XEX%2FRptwGV%2Fxun7VGZc5Z1ZWCwEple%2B4G5jCwsBtXfjXDQW29QQN68mEWRzbSecWrz31%2Frjv1c95d2DxcFIUgu3kmk9j1zHHkX%2BxNZjRl5EuV6MQo3VYeigz8IkhiSFT7%2BGVL2u%2F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-05-17T19:01:20+08:00 ] 117.185.27.114 /laosan/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-05-17T19:01:23+08:00 ] 101.226.33.202 /laosan/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-05-17T19:01:23+08:00 ] 101.226.114.166 /laosan/index.php/Home/User/my.html?nsukey=Pud5w7J2AhmZzFCPuI8XhKWGnP42PI7NPv2hRiKT2y8GXBJEnDd6M7%2BsiFaX06EpnEK22sAh%2F%2FtQGJhsMR%2FoPuC7gxPOWILe2TE%2F4kqj0PIOb0uuPEOAQH88Ib%2BnG4NjWdeQBZ7pDCKeJnRnaa%2BFxowcTa%2BNLLkZw4HGBsXc5szez8kKOTOFJBuMgAL3UNQL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-05-17T19:01:24+08:00 ] 101.226.125.115 /laosan/index.php/Home/User/my.html?nsukey=Pud5w7J2AhmZzFCPuI8XhKWGnP42PI7NPv2hRiKT2y8GXBJEnDd6M7%2BsiFaX06EpnEK22sAh%2F%2FtQGJhsMR%2FoPuC7gxPOWILe2TE%2F4kqj0PIOb0uuPEOAQH88Ib%2BnG4NjWdeQBZ7pDCKeJnRnaa%2BFxowcTa%2BNLLkZw4HGBsXc5szez8kKOTOFJBuMgAL3UNQL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-05-17T19:01:24+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html?nsukey=Pud5w7J2AhmZzFCPuI8XhKWGnP42PI7NPv2hRiKT2y8GXBJEnDd6M7%2BsiFaX06EpnEK22sAh%2F%2FtQGJhsMR%2FoPuC7gxPOWILe2TE%2F4kqj0PIOb0uuPEOAQH88Ib%2BnG4NjWdeQBZ7pDCKeJnRnaa%2BFxowcTa%2BNLLkZw4HGBsXc5szez8kKOTOFJBuMgAL3UNQL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-05-17T19:01:32+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-05-17T19:01:33+08:00 ] 180.153.206.20 /laosan/index.php/Home/User/my.html?nsukey=Pud5w7J2AhmZzFCPuI8XhKWGnP42PI7NPv2hRiKT2y8GXBJEnDd6M7%2BsiFaX06EpnEK22sAh%2F%2FtQGJhsMR%2FoPuC7gxPOWILe2TE%2F4kqj0PIOb0uuPEOAQH88Ib%2BnG4NjWdeQBZ7pDCKeJnRnaa%2BFxowcTa%2BNLLkZw4HGBsXc5szez8kKOTOFJBuMgAL3UNQL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-05-17T19:18:16+08:00 ] 101.226.102.78 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-05-17T19:18:17+08:00 ] 101.226.61.193 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-05-17T19:18:17+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-05-17T19:18:23+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/addressList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined index: userinfo /data/wwwroot/default/laosan/Application/Home/Controller/UserController.class.php 第 187 行.
+
+[ 2017-05-17T19:18:23+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-05-17T19:18:26+08:00 ] 180.153.206.21 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-05-17T19:18:26+08:00 ] 140.207.185.107 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-05-17T19:18:33+08:00 ] 101.226.89.121 /laosan/index.php/Home/User/addressList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [8] Undefined index: userinfo /data/wwwroot/default/laosan/Application/Home/Controller/UserController.class.php 第 187 行.
+
+[ 2017-05-17T19:18:33+08:00 ] 101.226.33.238 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-05-17T19:18:33+08:00 ] 101.226.89.121 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-05-17T19:18:36+08:00 ] 180.153.206.21 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-05-17T19:18:36+08:00 ] 180.163.2.117 /laosan/index.php/Home/User/addressList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Undefined index: userinfo /data/wwwroot/default/laosan/Application/Home/Controller/UserController.class.php 第 187 行.
+
+[ 2017-05-17T19:18:36+08:00 ] 180.163.2.117 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-05-17T19:27:42+08:00 ] 120.92.32.177 /laosan/index.php/Home/User/my.html?nsukey=n1JXje1iWuFHaJ3DZD7CVt%2BK%2B6RjWFelyowpzdAECRfN3N9JACHPq3o87dbxhp6xQA36wx4j%2FqSBbJWpLC84ld0r1d6%2BoJ%2FbH2n5EnV%2BLmcvnqunY03lc8amyuKLy5KtameoM%2F6zSQi%2Bs8RzwBG0N6QT4tWjAnHLt3z7GyRVQYsFRm421%2FiR9QcOy%2BlmGlrM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+

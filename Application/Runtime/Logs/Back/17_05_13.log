@@ -1,0 +1,2189 @@
+[ 2017-05-13T11:08:22+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-05-13T11:08:22+08:00 ] 123.120.252.103 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T11:08:44+08:00 ] 123.120.252.103 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-05-13T11:08:44+08:00 ] 123.120.252.103 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-05-13T11:08:48+08:00 ] 123.120.252.103 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-05-13T11:08:50+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T11:08:53+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T11:08:56+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T11:09:11+08:00 ] 123.120.252.103 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T11:09:21+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%83%81%E9%87%91%E9%A6%99(Little+Tulip)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小郁金香(Little Tulip)18K白金钻石吊坠颈链' AND `goods_id` <> '65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T11:09:22+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T11:09:22+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T11:14:34+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T11:14:38+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-05-13T11:14:48+08:00 ] 123.120.252.103 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T11:14:58+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%83%81%E9%87%91%E9%A6%99(Little+Tulip)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小郁金香(Little Tulip)18K白金钻石吊坠颈链' AND `goods_id` <> '65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-05-13T11:14:59+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T11:14:59+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-05-13T11:30:43+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-13T12:34:39+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+
+[ 2017-05-13T12:34:42+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-13T12:34:47+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-05-13T12:34:51+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/55.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T12:35:03+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E6%9D%AF%E5%AD%90%E8%9B%8B%E7%B3%95(Cupcake)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '杯子蛋糕(Cupcake)18K白金钻石吊坠颈链' AND `goods_id` <> '55' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-05-13T12:35:03+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T12:35:03+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T12:36:19+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-05-13T12:36:23+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-13T12:36:30+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-05-13T12:36:32+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/69.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T12:36:44+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E5%86%B0%E6%A3%92(Popsicle)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E9%BB%84%E6%B0%B4%E6%99%B6%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=69
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '冰棒(Popsicle)18K白金钻石黄水晶吊坠颈链' AND `goods_id` <> '69' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-05-13T12:36:44+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T12:36:45+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-05-13T13:44:01+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T13:44:12+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-13T13:44:18+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/54.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T13:44:50+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E7%94%9C%E7%AD%92%E5%86%B0%E6%B7%87%E6%B7%8B(Ice+Cream+Cone)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=54
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '甜筒冰淇淋(Ice Cream Cone)18K白金钻石吊坠颈链' AND `goods_id` <> '54' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T13:44:50+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T13:44:50+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T13:49:13+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T13:55:46+08:00 ] 123.120.252.103 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-13T13:55:48+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T13:56:05+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E9%92%BB%E7%9F%B3%E5%85%AC%E9%B8%A1(Diamond+Chicken)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE+&goods_id=19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '钻石公鸡(Diamond Chicken)18K黄金钻石吊坠颈链 ' AND `goods_id` <> '19' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T13:56:05+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-13T13:56:05+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T14:00:09+08:00 ] 123.120.252.103 /index.php/Back/Goods/set/goods_id/45.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T14:00:21+08:00 ] 123.120.252.103 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E5%8C%85%E5%8C%85('DIOR'Bag)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小包包(\'DIOR\'Bag)18K黄金钻石吊坠颈链' AND `goods_id` <> '45' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T14:00:21+08:00 ] 123.120.252.103 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:00:21+08:00 ] 123.120.252.103 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T14:05:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-05-13T14:05:50+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T14:06:07+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-05-13T14:06:19+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:06:28+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-13T14:06:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/66.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:07:52+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T14:19:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T14:20:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/39.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:20:42+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%AE%97%E7%9B%98(Abacus)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '算盘(Abacus)18K黄金钻石吊坠颈链' AND `goods_id` <> '39' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T14:20:42+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:20:42+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T14:22:29+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:22:32+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T14:22:35+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/42.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T14:23:08+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=Bra+18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = 'Bra 18K黄金钻石吊坠颈链' AND `goods_id` <> '42' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:23:19+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T14:23:19+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:27:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-13T14:28:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T14:28:10+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/50.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-05-13T14:28:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T14:28:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%B2%89%E8%89%B2%E9%B8%A1%E5%B0%BE%E9%85%92(Cocktail)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '粉色鸡尾酒(Cocktail)18K白金钻石吊坠颈链' AND `goods_id` <> '50' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T14:28:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-13T14:28:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-05-13T14:28:36+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:28:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T14:28:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T14:28:52+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:28:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/66.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:29:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/Description/2017-05-12/59153516f122f.png): No such file or directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 206 行.
+NOTIC: [2] unlink(./Public/Thumb/2017-05-12/thumb_59153516f122f.png): No such file or directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 220 行.
+
+[ 2017-05-13T14:29:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%B2%89%E5%A5%B6%E5%98%B4(Pink+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=66
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '粉奶嘴(Pink Pacifier)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '66' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:29:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:29:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:49:35+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-05-13T14:49:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/28.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T14:50:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%92%B1%E5%B8%81%E5%AE%9D%E9%92%B1(Chinese+Coin)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '钱币宝钱(Chinese Coin)18K黄金钻石吊坠颈链' AND `goods_id` <> '28' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:50:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:50:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-05-13T14:53:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-05-13T14:54:16+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/57.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T14:55:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%92%B1%E5%B8%81%E5%AE%9D%E9%92%B1(Chinese+Coin)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=57
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '钱币宝钱(Chinese Coin)18K黄金钻石耳钉' AND `goods_id` <> '57' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T14:55:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T14:55:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:57:35+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-13T14:57:44+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:57:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T14:57:52+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/58.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:57:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E8%B1%8C%E8%B1%86%E7%A6%8F%E8%B1%86(Bean)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E9%93%BE&goods_id=58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '豌豆福豆(Bean)18K白金钻石手链' AND `goods_id` <> '58' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T14:57:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T14:57:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-05-13T14:58:13+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+
+[ 2017-05-13T14:58:18+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-13T14:58:24+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-13T14:58:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/59.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-13T14:58:30+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E8%B1%8C%E8%B1%86%E7%A6%8F%E8%B1%86(Bean)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E9%93%BE&goods_id=59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金豌豆福豆(Bean)18K黄金钻石手链' AND `goods_id` <> '59' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T14:58:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-13T14:58:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-05-13T14:58:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T14:58:37+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/70.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T14:58:40+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E8%B1%8C%E8%B1%86%E7%A6%8F%E8%B1%86(Bean)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金豌豆福豆(Bean)18K黄金钻石吊坠颈链' AND `goods_id` <> '70' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-05-13T14:58:40+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T14:58:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T15:59:13+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-05-13T15:59:13+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T15:59:17+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-05-13T15:59:17+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T15:59:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-13T15:59:25+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T15:59:51+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T15:59:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-05-13T16:00:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:00:22+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:00:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E6%96%A7%E5%A4%B4(Axe)18K%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小斧头(Axe)18K金钻石吊坠颈链' AND `goods_id` <> '15' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T16:00:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T16:00:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:00:32+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:00:36+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/26.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T16:00:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:00:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E8%8C%B6%E5%A3%B6(Teapot)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=26
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '茶壶(Teapot)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '26' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T16:00:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:00:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-05-13T16:01:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-13T16:01:03+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-05-13T16:01:11+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/44.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T16:01:30+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:01:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E5%A2%A8%E9%95%9C(Sunglasses)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小墨镜(Sunglasses)18K黄金钻石吊坠颈链' AND `goods_id` <> '44' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:01:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:01:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-05-13T16:01:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-05-13T16:01:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:01:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:02:09+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T16:02:13+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T16:02:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:02:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E5%85%B3%E5%88%80(Knife)18K%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小关刀(Knife)18K金钻石吊坠颈链' AND `goods_id` <> '14' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-13T16:02:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T16:02:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T16:02:29+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:02:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/57.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:02:52+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:03:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%92%B1%E5%B8%81%E5%AE%9D%E9%92%B1(Chinese+Coin)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=57
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '钱币宝钱(Chinese Coin)18K黄金钻石耳钉' AND `goods_id` <> '57' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-05-13T16:03:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:03:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:03:03+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T16:03:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T16:03:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/50.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T16:03:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:03:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%B2%89%E8%89%B2%E9%B8%A1%E5%B0%BE%E9%85%92(Cocktail)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '粉色鸡尾酒(Cocktail)18K白金钻石吊坠颈链' AND `goods_id` <> '50' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T16:03:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:03:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:05:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-05-13T16:05:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T16:05:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/39.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-05-13T16:05:50+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:05:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%AE%97%E7%9B%98(Abacus)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '算盘(Abacus)18K黄金钻石吊坠颈链' AND `goods_id` <> '39' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:05:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T16:05:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T16:09:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-05-13T16:09:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-05-13T16:09:55+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-05-13T16:09:59+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-05-13T16:10:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/46.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T16:10:11+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%BA%A2%E7%AE%97%E7%9B%98(Red+Abacus)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '红算盘(Red Abacus)18K黄金钻石吊坠颈链' AND `goods_id` <> '46' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T16:10:20+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T16:10:22+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T16:10:22+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:10:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T16:10:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/57.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-05-13T16:10:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%92%B1%E5%B8%81%E5%AE%9D%E9%92%B1(Chinese+Coin)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=57
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '钱币宝钱(Chinese Coin)18K黄金钻石耳钉' AND `goods_id` <> '57' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-05-13T16:10:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T16:10:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T16:10:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T16:11:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T16:11:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/67.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:11:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%86%8A%E7%8C%AB(Panda)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '熊猫(Panda)18K白金钻石耳钉' AND `goods_id` <> '67' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-13T16:11:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-05-13T16:11:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-05-13T16:11:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T16:11:45+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/68.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-05-13T16:11:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%85%AB%E5%8D%A6%E5%A4%AA%E6%9E%81(Taichi)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=68
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '八卦太极(Taichi)18K白金钻石耳钉' AND `goods_id` <> '68' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T16:11:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-05-13T16:11:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T16:11:51+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T16:14:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:14:24+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:14:29+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T16:14:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/48.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T16:14:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%87%91%E9%B8%A1(Golden+Chicken)18K%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=48
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小金鸡(Golden Chicken)18K黄金钻石吊坠颈链' AND `goods_id` <> '48' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-13T16:14:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-05-13T16:14:39+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-05-13T17:46:23+08:00 ] 123.112.232.13 /Back/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T17:46:31+08:00 ] 123.112.232.13 /Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T17:46:32+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-05-13T17:46:32+08:00 ] 61.151.226.16 /Back/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 非法操作:index
+
+[ 2017-05-13T17:46:33+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T17:46:33+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-05-13T17:46:40+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-05-13T17:46:41+08:00 ] 101.226.33.220 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T17:46:41+08:00 ] 101.226.89.121 /Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T17:46:41+08:00 ] 101.226.89.121 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T17:46:43+08:00 ] 101.226.125.100 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T17:46:43+08:00 ] 101.226.125.100 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-05-13T17:46:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-05-13T17:46:49+08:00 ] 101.226.65.107 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:46:49+08:00 ] 101.226.65.107 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T17:46:50+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T17:46:53+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T17:47:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T17:47:07+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T17:47:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T17:47:20+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T17:47:24+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-05-13T17:47:30+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/25.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T17:47:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/remove.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+SQL: SELECT * FROM `wb_gallery` WHERE `gallery_id` = 50 LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `wb_gallery` WHERE `gallery_id` = 50 [ RunTime:0.0007s ]
+
+[ 2017-05-13T17:47:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T17:47:50+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+
+[ 2017-05-13T17:47:50+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T17:52:22+08:00 ] 123.112.232.13 /index.php/Back/Order/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T17:52:22+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T17:52:25+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T17:52:26+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T17:52:31+08:00 ] 101.226.66.187 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T17:52:32+08:00 ] 101.226.66.187 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T17:52:34+08:00 ] 101.226.68.200 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-05-13T17:52:34+08:00 ] 101.226.68.200 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T17:53:01+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T17:53:07+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T17:53:08+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T17:53:22+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T17:53:23+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-05-13T17:53:24+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-13T17:53:34+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T17:53:36+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-05-13T17:53:37+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-05-13T17:53:38+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-05-13T17:53:39+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T17:53:40+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T17:53:41+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:53:46+08:00 ] 101.226.69.246 /index.php/Back/Order/list/order_statu_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T17:53:46+08:00 ] 101.226.69.246 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:55:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T17:55:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/25.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T17:56:04+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T17:56:06+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E8%9D%99%E8%9D%A0(Bat)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E6%83%85%E4%BE%A3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '蝙蝠(Bat)18K白金钻石情侣吊坠颈链' AND `goods_id` <> '25' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T17:56:06+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-13T17:56:06+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-13T17:58:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T17:58:20+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:58:22+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/66.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T17:58:29+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%B2%89%E5%A5%B6%E5%98%B4(Pink+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=66
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '粉奶嘴(Pink Pacifier)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '66' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T17:58:29+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/66.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:58:31+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T17:58:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T17:58:45+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Gold+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Gold Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:03:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T18:12:53+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T18:12:55+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/25.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T18:13:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:13:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E8%9D%99%E8%9D%A0(Bat)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E6%83%85%E4%BE%A3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '蝙蝠(Bat)18K白金钻石情侣吊坠颈链' AND `goods_id` <> '25' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-05-13T18:13:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T18:13:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T18:36:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T18:36:37+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Pink+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Pink Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-05-13T18:36:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(G+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(G Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T18:36:44+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Go+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Go Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T18:36:44+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Go'l+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Go\'l Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T18:36:44+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Gold+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Gold Pacifier)18K玫瑰金钻石吊坠颈链' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T18:37:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 199 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 217 行.
+
+[ 2017-05-13T18:37:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 206 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/GoodsController.class.php 第 220 行.
+
+[ 2017-05-13T18:38:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:38:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:47:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-05-13T18:47:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T18:47:27+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-05-13T18:47:30+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/74.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T18:47:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Gold+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Gold Pacifier)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '74' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T18:47:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T18:47:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T18:47:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:47:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T18:47:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/50.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T18:47:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:47:57+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%B2%89%E8%89%B2%E9%B8%A1%E5%B0%BE%E9%85%92(Cocktail)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '粉色鸡尾酒(Cocktail)18K白金钻石吊坠颈链' AND `goods_id` <> '50' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T18:47:57+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-05-13T18:47:57+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-05-13T18:48:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:48:03+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-13T18:48:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:48:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T18:48:30+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/56.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-13T18:48:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:48:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%A5%BC%E5%B9%B2%E7%9B%98(Ice+Cream+Desert)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '饼干盘(Ice Cream Desert)18K白金钻石吊坠颈链' AND `goods_id` <> '56' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-13T18:48:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T18:48:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:48:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T18:48:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-13T18:50:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-05-13T18:50:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/74.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-05-13T18:50:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Gold+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Gold Pacifier)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '74' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T18:50:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T18:50:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T18:50:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T18:50:28+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/74.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-13T18:50:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E9%87%91%E5%A5%B6%E5%98%B4(Gold+Pacifier)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '金奶嘴(Gold Pacifier)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '74' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-05-13T18:50:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T18:50:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T18:50:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-13T18:50:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-13T18:50:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-13T18:50:55+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T18:51:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/73.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-13T18:51:06+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-13T18:51:08+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E7%82%B8%E5%BC%B9(Bomb)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E8%80%B3%E9%92%89&goods_id=73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '炸弹(Bomb)18K白金钻石耳钉' AND `goods_id` <> '73' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-05-13T18:51:08+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T18:51:09+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-05-13T18:52:24+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-05-13T18:52:28+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-05-13T18:52:32+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T18:52:34+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T18:52:38+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E5%A5%B6%E7%93%B6(Milk+Bottle)18K%E7%8E%AB%E7%91%B0%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小奶瓶(Milk Bottle)18K玫瑰金钻石吊坠颈链' AND `goods_id` <> '11' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-05-13T18:52:40+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-13T18:52:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-13T23:29:35+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+
+[ 2017-05-13T23:29:35+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-05-13T23:30:04+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-13T23:30:04+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-13T23:30:06+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-05-13T23:30:11+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-13T23:30:13+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-13T23:30:16+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T23:30:21+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-13T23:30:24+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-13T23:32:41+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-05-13T23:32:43+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-13T23:32:53+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-05-13T23:32:55+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+

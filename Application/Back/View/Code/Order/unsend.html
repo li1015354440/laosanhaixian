@@ -1,0 +1,157 @@
+<extend name="Common/back" />
+
+<block name="content">
+    <div id="content">
+        <div class="page-header">
+            <div class="container-fluid">
+                <div class="pull-right">
+                    <button type="button" data-toggle="tooltip" title="确认发货" class="btn btn-info" id="button-delete" onclick ="confirm('确认已发货？')? $('#form-list').submit(): false;">
+                        确认发货
+                    </button>
+                </div>
+                <h1>订单管理</h1>
+                <ul class="breadcrumb">
+                    <li>
+                        <a href="">首页</a>
+                    </li>
+                    <li>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="well" style="background:white">
+            <form action="{:U('Back/Order/list',['order_statu_id'=>$statu_id])}" method="get">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label class="control-label" for="input-name">订单编号</label>
+                            <input type="text" name="order_sn" value="{$filter['order_sn']}" placeholder="商品编号" id="input-name" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <button type="submit" id="button-filter" class="btn btn-primary pull-right">
+                            <i class="fa fa-search"></i>
+                            筛选
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="container-fluid">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">
+                        <i class="fa fa-list"></i>
+                        订单列表
+                    </h3>
+
+                </div>
+                    <form action="{:U('multi')}" method="post" enctype="multipart/form-data" id="form-list">
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+
+                                <tr>
+                                    <td style="width: 1px;" class="text-center">
+                                        <input type="checkbox" id="input-all"/>
+                                    </td>
+                                    <td class="text-left">
+                                        用户电话
+                                    </td>
+                                    <td class="text-left">
+                                        <a href="{:sortU('list',$filter,$sort,'order_sn')}" class="{:sortClass($sort,'order_sn')}">订单编号
+                                        </a>
+                                    </td>
+                                    <td class="text-left">
+                                        收货地址
+                                    </td>
+                                    <td class="text-left">
+
+                                            订单状态
+                                        </a>
+                                    </td>
+                                    <td class="text-left">
+                                        商品详细信息
+                                    </td>
+                                    <td class="text-left">
+                                        <a href="{:sortU('list',$filter,$sort,'create_at')}" class="{:sortClass($sort,'create_at')}">
+                                        创建时间
+                                        </a>
+                                    </td>
+                                    <td class="text-left">
+                                        备注
+                                    </td>
+                                    <td class="text-left">
+                                        总价
+                                    </td>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="rows" id="row">
+                                    <tr>
+                                        <td class="text-center">
+                                            <input type="checkbox" name="selected[]" value="{$row['order_id']}" />
+                                        </td>
+                                         <td class="text-left">{$row['user_id']}</td>
+                                        <td class="text-left">{$row['order_sn']}</td>
+                                        <td class="text-left">
+                                          姓名:{$row['recept_id']['name']} tel：{$row['recept_id']['tel']}
+                                           地址: {$row['recept_id']['province']}
+                                                 {$row['recept_id']['city']}
+                                                {$row['recept_id']['country']}
+                                               {$row['recept_id']['detail']}
+                                        </td>
+                                        <td class="text-left">
+                                            <switch name="row['order_statu_id']" >
+                                                <case value="1" >未支付</case>
+                                                <case value="2">未发货</case>
+                                                <case value="3">未收货</case>
+                                                <case value="4">已完成</case>
+                                            </switch>
+                                        </td>
+                                        <td class="text-left">
+                                            <volist name="row['goods_info']" id="good">
+                                                    {$good['name']}:{$good['shop_price']}X{$good['buy_quantity']} <br>
+                                            </volist>
+                                            <!--{$row['goods_info']}-->
+                                        </td>
+                                        <td class="text-left">{:date('Y-m-d H:i:m' ,$row['create_at'])}</td>
+                                        <td class="text-left">{$row['comment']}</td>
+                                        <td class="text-left"> {$row['totalPrice']}</td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
+                        </div>
+                    </form>
+                    <div class="row">
+                        {$page_bar}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</block>
+
+<block name="appendJs">
+    <script>
+    $(function(){
+        $('#input-all').click(function(evt){
+            $(":checkbox[name='selected[]']").prop('checked',$(this).prop('checked'));
+        });
+    });
+
+    </script>
+
+    <script>
+        //前端删除
+        $(function(){
+            $('#button-delete').click(function(evt){
+                if(confirm('确定删除吗？')){
+                    $('#form-list').submit();
+                }
+            });
+        });
+    </script>
+</block>

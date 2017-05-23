@@ -1,0 +1,60 @@
+body {
+  background: #f5f5f5;
+}
+.ul_input {
+  padding: 0 .12rem;
+  margin-top: 0.15rem;
+  background: #fff;
+  font-size: .15rem;
+  color: #333;
+  text-align: left;
+}
+.ul_input > li {
+  height: .5rem;
+  line-height: .5rem;
+}
+.ul_input > li:not(:last-child) {
+  border-bottom: 1px solid #ededed;
+}
+.ul_input > li > span {
+  display: inline-block;
+  width: 15%;
+  font-size: 0.15rem;
+  color: #999;
+  /*margin-left: .05rem;*/
+  vertical-align: middle;
+}
+#tel{
+  width: 50%;
+  font-size: 0.12rem;
+  margin-top: 0.03rem;
+}
+#getcode{
+  font-size:0.11rem;
+  width: 1rem;
+  height: 0.3rem;
+  border-radius:0.05rem ;
+  background-color: #2b2b2b;
+  color: #fff;
+  cursor: pointer;
+  -webkit-appearance: none; 
+}
+#iden_code{
+  width: 70%;
+  font-size: 0.12rem;
+  margin-top: 0.03rem;
+}
+#login_btn {
+  outline: none;
+  margin: 0 auto;
+  margin-top: 0.5rem;
+  width: 88%;
+  height: .44rem;
+  background: #2b2b2b;
+  border: none;
+  border-radius: .2rem;
+  font-size: .15rem;
+  line-height: .42rem;
+  color: #fff;
+  border: none;
+}

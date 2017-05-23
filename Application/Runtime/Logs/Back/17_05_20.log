@@ -1,0 +1,10 @@
+[ 2017-05-20T14:36:45+08:00 ] 101.226.33.219 /laosan/index.php/back/goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-05-20T14:36:45+08:00 ] 101.226.33.219 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+

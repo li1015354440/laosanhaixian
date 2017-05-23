@@ -1,0 +1,731 @@
+[ 2017-05-20T11:00:44+08:00 ] 123.112.232.13 /laosan/index.php/Home/Buy/tip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: order_sn /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/0f5742c8ecbae5c0d427f36d9dc86236.php 第 16 行.
+NOTIC: [8] Undefined variable: total_price /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/0f5742c8ecbae5c0d427f36d9dc86236.php 第 16 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-05-20T11:00:57+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-05-20T11:00:57+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined index: userinfo /data/wwwroot/default/laosan/Application/Home/Controller/UserController.class.php 第 342 行.
+NOTIC: [8] Undefined index: userinfo /data/wwwroot/default/laosan/Application/Home/Controller/UserController.class.php 第 346 行.
+
+[ 2017-05-20T11:01:01+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-05-20T11:01:03+08:00 ] 123.112.232.13 /laosan/index.php/Home/Buy/cart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-05-20T11:01:03+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-05-20T11:01:06+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/LoginCallBack?code=061jP8pF1Aunk20pBtsF1XAtpF1jP8pR&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SELECT * FROM `ls_user` WHERE `open_id` = 'oYCO5w0acnI7r6WqmB-JjqVQsCNw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] urlencode() expects parameter 1 to be string, array given /data/wwwroot/default/laosan/ThinkPHP/Common/functions.php 第 1410 行.
+
+[ 2017-05-20T11:01:06+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-05-20T11:01:07+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-05-20T11:01:07+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-05-20T11:01:09+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-05-20T11:01:43+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-05-20T11:01:43+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-05-20T11:01:45+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-05-20T11:01:46+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-05-20T11:01:46+08:00 ] 123.112.232.13 /laosan/index.php/Home/User/m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-05-20T11:01:47+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-05-20T11:01:52+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/detail/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SELECT `goods_id`,`name`,`shop_price`,`thumb`,`stock`,description as description_img,u.title as unit_title FROM `ls_goods` left join ls_unit u using(unit_id)  WHERE `goods_id` = '3' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT thumb_path as gallery_img FROM `ls_gallery` WHERE `goods_id` = 3 ORDER BY sort_number  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3bf00063fd5f7d52a503fd6d8a404a64.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-05-20T11:02:08+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-05-20T11:02:08+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-05-20T11:02:18+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-05-20T11:02:18+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-05-20T11:03:46+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/detail/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SELECT `goods_id`,`name`,`shop_price`,`thumb`,`stock`,description as description_img,u.title as unit_title FROM `ls_goods` left join ls_unit u using(unit_id)  WHERE `goods_id` = '3' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT thumb_path as gallery_img FROM `ls_gallery` WHERE `goods_id` = 3 ORDER BY sort_number  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3bf00063fd5f7d52a503fd6d8a404a64.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-05-20T11:03:49+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-05-20T11:03:49+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-05-20T11:07:15+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-05-20T11:07:16+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-05-20T11:07:17+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 6,6   [ RunTime:0.0005s ]
+
+[ 2017-05-20T11:07:19+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 12,6   [ RunTime:0.0005s ]
+
+[ 2017-05-20T11:07:20+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-05-20T11:07:20+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/list?type_id=1&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t using(type_id)  WHERE t.type_id = '1' AND t.is_display = 1 AND g.is_online = 1 ORDER BY g.sort_number,g.goods_id LIMIT 0,6   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/3295a9e85f524b7ed7d0e026f7c84057.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-05-20T11:07:23+08:00 ] 123.112.232.13 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-05-20T14:15:18+08:00 ] 123.112.225.62 /laosan/index.php/Home/Shop/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-05-20T14:15:40+08:00 ] 123.112.225.62 /laosan/index.php/Home/Buy/tip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: order_sn /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/0f5742c8ecbae5c0d427f36d9dc86236.php 第 15 行.
+NOTIC: [8] Undefined variable: total_price /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/0f5742c8ecbae5c0d427f36d9dc86236.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-05-20T17:24:01+08:00 ] 123.112.225.62 /laosan/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-05-20T17:24:11+08:00 ] 101.226.33.228 /laosan/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SELECT `banner_thumb` FROM `ls_banner` ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `type_id`,`title`,`type_thumb` FROM `ls_type` WHERE `is_display` = 1 ORDER BY sort_number  [ RunTime:0.0001s ]
+SQL: SELECT `goods_id`,`name`,`thumb`,`shop_price`,t.title as type_title FROM ls_goods g left join ls_type t  using(type_id)  WHERE `is_hot` = 1 AND `is_online` = 1 ORDER BY g.sort_number,g.goods_id  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+NOTIC: [8] Undefined index: series_title /data/wwwroot/default/laosan/Application/Runtime/Cache/Home/58c9b418295366ada92ef91abf88ff39.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+

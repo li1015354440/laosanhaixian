@@ -1,0 +1,211 @@
+[ 2017-05-19T18:34:46+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-19T18:34:46+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-05-19T18:35:00+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-05-19T18:35:00+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-05-19T18:35:04+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-05-19T18:35:06+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-05-19T18:35:14+08:00 ] 180.153.214.198 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-19T18:35:14+08:00 ] 180.153.214.198 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-05-19T18:35:15+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-19T18:35:16+08:00 ] 180.153.212.13 /laosan/index.php/Back/Goods/set/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-05-19T18:35:16+08:00 ] 180.153.212.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-05-19T18:35:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%BB%84%E9%B1%BC&goods_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+SQL: SELECT * FROM `ls_goods` WHERE `name` = '小黄鱼' AND `goods_id` <> '3' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004886s ]
+
+[ 2017-05-19T18:35:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-05-19T18:35:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-05-19T18:35:26+08:00 ] 180.153.211.172 /laosan/index.php/Back/Goods/ajax.html?goods_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-05-19T18:37:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-05-19T18:37:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-05-19T18:38:11+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-05-19T18:38:11+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-19T18:38:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/set/admin_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-05-19T18:38:21+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-05-19T18:38:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-05-19T18:38:29+08:00 ] 180.153.81.203 /laosan/index.php/Back/Admin/set/admin_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-19T18:38:29+08:00 ] 180.153.81.203 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-05-19T18:38:52+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-19T18:39:29+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/remove.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SELECT * FROM `ls_gallery` WHERE `gallery_id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `ls_gallery` WHERE `gallery_id` = 1 [ RunTime:0.0004s ]
+
+[ 2017-05-19T18:39:29+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/remove.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SELECT * FROM `ls_gallery` WHERE `gallery_id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: DELETE FROM `ls_gallery` WHERE `gallery_id` = 2 [ RunTime:0.0015s ]
+
+[ 2017-05-19T18:39:35+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-19T18:39:41+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-05-19T18:39:41+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-05-19T18:40:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set/goods_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-19T18:40:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-19T18:40:45+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-05-19T18:40:45+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+

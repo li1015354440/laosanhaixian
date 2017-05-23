@@ -1,0 +1,1608 @@
+[ 2017-05-18T14:31:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-05-18T14:31:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-05-18T14:31:26+08:00 ] 101.226.64.177 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-05-18T14:31:26+08:00 ] 101.226.64.177 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-05-18T14:31:30+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-05-18T14:31:30+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-05-18T14:31:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-05-18T14:31:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-05-18T14:32:06+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-05-18T14:32:13+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-05-18T14:32:16+08:00 ] 61.151.218.118 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-05-18T14:32:16+08:00 ] 61.151.218.118 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-05-18T14:32:23+08:00 ] 140.207.124.105 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-18T14:32:23+08:00 ] 140.207.124.105 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-05-18T14:32:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+NOTIC: [2] unlink(./Upload/): No such file or directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+
+[ 2017-05-18T14:33:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2] unlink(./Upload/): No such file or directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+
+[ 2017-05-18T14:33:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-05-18T14:33:54+08:00 ] 180.153.160.24 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T14:33:54+08:00 ] 180.153.160.24 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T14:35:02+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-05-18T14:35:07+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+
+[ 2017-05-18T14:36:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-05-18T14:37:07+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-18T14:37:19+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-05-18T14:37:19+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T14:37:37+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-05-18T14:37:42+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-18T14:37:47+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T14:37:47+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-05-18T14:42:02+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-05-18T14:42:12+08:00 ] 101.226.125.103 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-05-18T14:42:12+08:00 ] 101.226.125.103 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T14:42:49+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E9%B1%BC%E7%B1%BB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '鱼类' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-05-18T14:43:02+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 127 行.
+
+[ 2017-05-18T14:43:04+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-05-18T14:43:04+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-05-18T14:43:08+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-05-18T14:43:13+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%99%BE%E7%B1%BB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '虾类' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-05-18T14:43:14+08:00 ] 101.226.125.103 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T14:43:15+08:00 ] 101.226.125.103 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-05-18T14:43:23+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 127 行.
+
+[ 2017-05-18T14:43:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-18T14:43:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-05-18T14:43:32+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T14:43:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%9F%B9%E7%B1%BB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '蟹类' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-05-18T14:43:47+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 127 行.
+
+[ 2017-05-18T14:43:49+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-05-18T14:43:49+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-05-18T14:43:56+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-05-18T14:44:03+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%B4%9D%E7%B1%BB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '贝类' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-05-18T14:44:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 127 行.
+
+[ 2017-05-18T14:44:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-05-18T14:44:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-05-18T14:44:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T14:44:27+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E5%85%B6%E4%BB%96
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '其他' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-05-18T14:44:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/TypeController.class.php 第 127 行.
+
+[ 2017-05-18T14:44:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-05-18T14:44:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-05-18T14:45:05+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-05-18T14:45:15+08:00 ] 101.226.66.172 /laosan/index.php/Back/Type/set/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-05-18T14:45:15+08:00 ] 101.226.66.172 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-05-18T14:45:17+08:00 ] 61.151.226.16 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-05-18T14:46:13+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-05-18T14:46:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-05-18T14:46:18+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-05-18T14:46:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-05-18T14:46:23+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-05-18T14:46:27+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-18T14:46:29+08:00 ] 180.163.2.119 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-05-18T14:46:29+08:00 ] 180.163.2.119 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-18T14:46:32+08:00 ] 101.226.33.203 /laosan/index.php/Back/Unit/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-18T14:46:33+08:00 ] 101.226.66.180 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-05-18T14:46:35+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-05-18T14:46:39+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-05-18T14:46:41+08:00 ] 123.112.232.13 /laosan/index.php/Back/Order/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-05-18T14:46:43+08:00 ] 123.112.232.13 /laosan/index.php/Back/Order/list/order_statu_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-05-18T14:46:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-05-18T14:46:54+08:00 ] 101.226.61.207 /laosan/index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-05-18T14:46:54+08:00 ] 101.226.61.207 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T14:47:02+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-05-18T14:47:06+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-05-18T14:47:27+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/ajax.html?name=%E9%BB%84%E8%8A%B1%E9%B1%BC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SELECT * FROM `ls_goods` WHERE `name` = '黄花鱼' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-05-18T14:48:03+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 199 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 217 行.
+
+[ 2017-05-18T14:48:09+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 206 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 220 行.
+
+[ 2017-05-18T14:48:18+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T14:48:18+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T14:48:20+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-05-18T14:50:57+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-05-18T14:51:06+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-05-18T14:51:35+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-05-18T14:56:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-05-18T14:58:32+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-05-18T14:58:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-18T14:59:36+08:00 ] 101.226.99.195 /laosan/index.php/Back/Order/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-05-18T14:59:40+08:00 ] 101.226.99.195 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T14:59:52+08:00 ] 140.207.185.109 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-05-18T14:59:57+08:00 ] 140.207.185.109 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-18T15:00:06+08:00 ] 180.153.214.199 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-05-18T15:06:12+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-05-18T15:37:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-05-18T15:37:51+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T15:37:59+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-18T15:38:05+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-05-18T15:38:05+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-05-18T15:38:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-05-18T15:38:43+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-05-18T15:38:43+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-05-18T15:38:45+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-05-18T15:38:52+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%BB%84%E9%B1%BC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SELECT * FROM `ls_goods` WHERE `name` = '小黄鱼' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-05-18T15:39:10+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 197 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 215 行.
+
+[ 2017-05-18T15:39:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 204 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 218 行.
+
+[ 2017-05-18T15:39:16+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-05-18T15:39:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-05-18T15:39:24+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T15:39:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-05-18T15:39:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-05-18T15:39:41+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-05-18T15:39:42+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-05-18T15:39:45+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-05-18T15:39:46+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-05-18T15:44:06+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-05-18T15:45:36+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-05-18T15:45:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T15:46:21+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-05-18T15:47:28+08:00 ] 101.226.51.228 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-05-18T15:47:33+08:00 ] 101.226.51.228 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-05-18T15:47:37+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-18T15:47:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-18T15:47:40+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-05-18T15:47:54+08:00 ] 180.153.214.176 /laosan/index.php/Back/Goods/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-05-18T15:47:59+08:00 ] 180.153.214.176 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-05-18T15:48:01+08:00 ] 180.153.163.190 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T15:48:05+08:00 ] 180.153.163.190 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-05-18T15:48:07+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T15:49:18+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-05-18T15:49:20+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-05-18T15:49:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T15:49:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T15:51:19+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-05-18T15:51:49+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-05-18T15:52:02+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-05-18T15:52:35+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-05-18T15:52:44+08:00 ] 180.153.214.191 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-05-18T15:52:44+08:00 ] 180.153.214.191 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-05-18T15:58:28+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-05-18T15:58:50+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-05-18T15:59:12+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-05-18T15:59:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-05-18T15:59:29+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-05-18T16:15:09+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T16:15:12+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-05-18T16:15:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-05-18T16:15:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-05-18T16:15:27+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-05-18T16:15:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/bannner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载控制器:Bannner
+
+[ 2017-05-18T16:15:41+08:00 ] 123.112.232.13 /laosan/index.php/Back/banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-05-18T16:15:48+08:00 ] 61.151.228.22 /laosan/index.php/Back/bannner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载控制器:Bannner
+
+[ 2017-05-18T16:17:19+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-05-18T16:17:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-05-18T16:17:26+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T16:17:28+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-05-18T16:17:28+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-05-18T16:17:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-05-18T16:17:34+08:00 ] 123.112.232.13 /laosan/index.php/Back/Unit/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-05-18T16:17:44+08:00 ] 101.226.64.177 /laosan/index.php/Back/Unit/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-05-18T16:17:44+08:00 ] 101.226.64.177 /laosan/index.php/Back/Unit/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-05-18T16:18:09+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-05-18T16:18:11+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-05-18T16:18:12+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-05-18T16:19:27+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-05-18T16:19:29+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-05-18T16:20:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-05-18T16:20:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-05-18T16:21:36+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-05-18T16:21:36+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-05-18T16:21:46+08:00 ] 101.226.66.180 /laosan/index.php/Back/Goods/multi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-05-18T16:21:46+08:00 ] 101.226.66.180 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-18T16:22:55+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-05-18T16:22:56+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-05-18T16:23:23+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-05-18T16:23:32+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2017-05-18T16:24:28+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-05-18T16:24:30+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-05-18T16:25:08+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-05-18T16:25:50+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-05-18T16:25:51+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-05-18T16:25:51+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T16:25:53+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T16:25:53+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-05-18T16:25:56+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-05-18T16:26:03+08:00 ] 101.226.33.225 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-05-18T16:26:03+08:00 ] 101.226.33.218 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-05-18T16:26:03+08:00 ] 101.226.33.225 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-05-18T16:26:03+08:00 ] 101.226.33.218 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-05-18T16:26:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-05-18T16:26:31+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T16:27:20+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T16:27:21+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-05-18T16:29:17+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-05-18T16:32:54+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-05-18T16:34:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-05-18T16:34:21+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%BB%84%E9%B1%BC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SELECT * FROM `ls_goods` WHERE `name` = '小黄鱼' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-05-18T16:34:39+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 197 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 215 行.
+
+[ 2017-05-18T16:34:59+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 204 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 218 行.
+
+[ 2017-05-18T16:35:03+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 204 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 218 行.
+
+[ 2017-05-18T16:35:08+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T16:35:08+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T16:35:09+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-05-18T16:35:28+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%BB%84%E9%B1%BC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SELECT * FROM `ls_goods` WHERE `name` = '小黄鱼' LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-05-18T16:35:47+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 197 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 215 行.
+
+[ 2017-05-18T16:35:51+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 204 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/GoodsController.class.php 第 218 行.
+
+[ 2017-05-18T16:35:58+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T16:35:58+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T16:35:59+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-05-18T16:35:59+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-05-18T16:37:55+08:00 ] 123.112.232.13 /laosan/index.php/Back/banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-05-18T16:38:01+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set/banner_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-18T16:38:09+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [2] unlink(./Upload/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 114 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/laosan/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-18T16:38:11+08:00 ] 180.153.211.190 /laosan/index.php/Back/Banner/set/banner_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-05-18T16:38:11+08:00 ] 180.153.211.190 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-05-18T16:38:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-18T16:38:14+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-05-18T16:56:11+08:00 ] 123.112.232.13 /laosan/index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-05-18T19:38:17+08:00 ] 123.112.232.13 /laosan/index.php/back/good/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+ERR: 无法加载控制器:Good
+
+[ 2017-05-18T19:38:22+08:00 ] 123.112.232.13 /laosan/index.php/back/goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-05-18T19:38:22+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-18T19:38:31+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-05-18T19:38:31+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-05-18T19:38:37+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-05-18T19:38:37+08:00 ] 123.112.232.13 /laosan/index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-05-18T19:38:50+08:00 ] 123.112.232.13 /laosan/index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-05-18T19:39:03+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-05-18T19:39:07+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-05-18T19:39:11+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E9%B1%BC%E7%B1%BB&type_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '鱼类' AND `type_id` <> '1' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-05-18T19:39:25+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T19:39:30+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-05-18T19:39:30+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-05-18T19:39:33+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T19:39:36+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T19:39:37+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%99%BE%E7%B1%BB&type_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '虾类' AND `type_id` <> '2' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-05-18T19:39:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-05-18T19:39:38+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-05-18T19:39:39+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-05-18T19:39:43+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T19:39:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%9F%B9%E7%B1%BB&type_id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '蟹类' AND `type_id` <> '3' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-05-18T19:39:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-05-18T19:39:44+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2017-05-18T19:39:46+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-05-18T19:39:51+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T19:39:52+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E8%B4%9D%E7%B1%BB&type_id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '贝类' AND `type_id` <> '4' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-05-18T19:39:52+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-05-18T19:39:52+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-05-18T19:39:53+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set/type_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-05-18T19:39:56+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/laosan/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-18T19:39:58+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/ajax.html?title=%E5%85%B6%E4%BB%96&type_id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SELECT * FROM `ls_type` WHERE `title` = '其他' AND `type_id` <> '5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-05-18T19:39:58+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-05-18T19:39:58+08:00 ] 123.112.232.13 /laosan/index.php/Back/Type/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+

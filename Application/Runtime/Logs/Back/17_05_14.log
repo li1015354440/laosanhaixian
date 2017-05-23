@@ -1,0 +1,778 @@
+[ 2017-05-14T00:06:45+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-14T00:09:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/ajax.html?name=%E5%B0%8F%E9%83%81%E9%87%91%E9%A6%99(Little+Tulip)18K%E7%99%BD%E9%87%91%E9%92%BB%E7%9F%B3%E5%90%8A%E5%9D%A0%E9%A2%88%E9%93%BE&goods_id=65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+SQL: SELECT * FROM `wb_goods` WHERE `name` = '小郁金香(Little Tulip)18K白金钻石吊坠颈链' AND `goods_id` <> '65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-14T00:09:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-05-14T00:09:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-14T00:09:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T00:09:52+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-05-14T00:12:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/description.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-14T00:12:47+08:00 ] 123.112.232.13 /index.php/Back/Goods/remove.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+SQL: SELECT * FROM `wb_gallery` WHERE `gallery_id` = 221 LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `wb_gallery` WHERE `gallery_id` = 221 [ RunTime:0.0010s ]
+
+[ 2017-05-14T00:14:32+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:15:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:16:07+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:20:08+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:20:15+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T00:20:15+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-05-14T00:20:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T00:21:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-05-14T00:21:28+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:23:46+08:00 ] 123.112.232.13 /index.php/Back/Goods/remove.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SELECT * FROM `wb_gallery` WHERE `gallery_id` = 222 LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `wb_gallery` WHERE `gallery_id` = 222 [ RunTime:0.0003s ]
+
+[ 2017-05-14T00:24:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2017-05-14T00:24:09+08:00 ] 123.112.232.13 /index.php/Back/Goods/upload/type/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+
+[ 2017-05-14T00:24:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T00:24:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-05-14T00:25:33+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T00:25:36+08:00 ] 123.112.232.13 /index.php/Back/Goods/set/goods_id/65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-14T00:37:40+08:00 ] 123.112.232.13 /index.php/Back/Goods/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-14T00:37:40+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-05-14T00:38:22+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-14T00:38:22+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-05-14T02:35:58+08:00 ] 113.5.2.22 /Back/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-05-14T02:36:17+08:00 ] 113.5.2.22 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-14T02:36:17+08:00 ] 113.5.2.22 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-14T13:20:26+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-05-14T13:20:26+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-14T13:20:33+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-05-14T13:20:33+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-05-14T13:20:40+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-14T13:20:48+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T13:20:51+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T13:20:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T13:20:57+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-14T13:21:11+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-14T13:21:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-05-14T13:22:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-14T13:23:19+08:00 ] 123.112.232.13 /index.php/Back/Ask/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T13:23:26+08:00 ] 123.112.232.13 /index.php/Back/Type/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T13:23:32+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-05-14T13:28:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-14T13:35:17+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-14T13:53:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-14T14:04:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-05-14T14:26:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T14:27:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-05-14T14:27:02+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-14T14:27:08+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+
+[ 2017-05-14T14:27:10+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-05-14T14:27:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-14T14:27:14+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+
+[ 2017-05-14T14:50:35+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-05-14T14:50:35+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-14T14:50:37+08:00 ] 123.112.232.13 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T14:50:37+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-05-14T14:50:45+08:00 ] 180.153.206.21 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T14:50:45+08:00 ] 180.153.206.21 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-05-14T14:50:46+08:00 ] 180.153.205.253 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-14T14:50:47+08:00 ] 180.153.205.253 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T14:54:38+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-14T14:55:29+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T14:56:22+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T14:56:29+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-14T14:56:35+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-05-14T15:01:22+08:00 ] 123.112.232.13 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-05-14T15:01:29+08:00 ] 123.112.232.13 /index.php/Back/Banner/set/banner_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-14T15:01:31+08:00 ] 117.185.27.113 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T15:01:31+08:00 ] 117.185.27.113 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-05-14T15:01:37+08:00 ] 123.112.232.13 /index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-14T15:01:38+08:00 ] 101.226.125.111 /index.php/Back/Banner/set/banner_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-14T15:01:38+08:00 ] 101.226.125.111 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-05-14T15:01:39+08:00 ] 123.112.232.13 /index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-14T15:01:39+08:00 ] 123.112.232.13 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-05-14T15:01:58+08:00 ] 123.112.232.13 /index.php/Back/Banner/set/banner_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T15:02:07+08:00 ] 123.112.232.13 /index.php/Back/Banner/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y /data/wwwroot/default/wbb/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 270 行.
+NOTIC: [2] unlink(./Public/Thumb/): Is a directory /data/wwwroot/default/wbb/Application/Back/Controller/BannerController.class.php 第 127 行.
+
+[ 2017-05-14T15:02:07+08:00 ] 101.226.33.221 /index.php/Back/Banner/set/banner_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T15:02:07+08:00 ] 101.226.33.221 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:02:15+08:00 ] 123.112.232.13 /index.php/Back/Banner/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-05-14T15:02:15+08:00 ] 123.112.232.13 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T15:09:42+08:00 ] 123.112.232.13 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:09:49+08:00 ] 123.112.232.13 /index.php/Back/Banner/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-05-14T15:09:56+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-05-14T15:10:26+08:00 ] 123.112.232.13 /index.php/Back/Admin/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-05-14T15:10:34+08:00 ] 123.112.232.13 /index.php/Back/Series/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T15:10:41+08:00 ] 123.112.232.13 /index.php/Back/Series/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T15:10:43+08:00 ] 123.112.232.13 /index.php/Back/Order/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:10:43+08:00 ] 101.226.65.105 /index.php/Back/Series/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:10:44+08:00 ] 101.226.65.105 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+
+[ 2017-05-14T15:10:44+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-14T15:10:45+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T15:10:46+08:00 ] 123.112.232.13 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-05-14T15:10:49+08:00 ] 123.112.232.13 /index.php/Back/Goods/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-14T15:10:50+08:00 ] 101.226.33.205 /index.php/Back/Series/set.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:10:50+08:00 ] 101.226.33.205 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-05-14T15:10:52+08:00 ] 101.226.33.227 /index.php/Back/Order/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-14T15:10:52+08:00 ] 101.226.33.227 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-05-14T15:10:53+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:10:54+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-05-14T15:10:54+08:00 ] 180.153.214.200 /index.php/Back/Order/list/order_statu_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-05-14T15:10:54+08:00 ] 180.153.214.200 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-05-14T15:10:55+08:00 ] 101.226.89.122 /index.php/Back/Order/list/order_statu_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-05-14T15:10:55+08:00 ] 101.226.89.122 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:10:56+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-05-14T15:10:58+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T15:11:00+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-05-14T15:11:01+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-14T15:11:02+08:00 ] 101.226.85.67 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-05-14T15:11:02+08:00 ] 101.226.85.67 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-05-14T15:11:03+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:11:03+08:00 ] 101.226.51.228 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-14T15:11:04+08:00 ] 101.226.51.228 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:11:05+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-05-14T15:11:07+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+
+[ 2017-05-14T15:11:07+08:00 ] 101.226.66.192 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+
+[ 2017-05-14T15:11:07+08:00 ] 101.226.66.192 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-14T15:11:09+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:11:10+08:00 ] 180.153.214.200 /index.php/Back/Goods/list/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-05-14T15:11:10+08:00 ] 180.153.214.200 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-05-14T15:11:10+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T15:11:12+08:00 ] 123.112.232.13 /index.php/Back/Goods/list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:11:13+08:00 ] 61.151.226.202 /index.php/Back/Goods/list/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-05-14T15:11:13+08:00 ] 61.151.226.202 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-05-14T15:11:14+08:00 ] 180.163.1.46 /index.php/Back/Goods/list/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-05-14T15:11:14+08:00 ] 180.163.1.46 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-05-14T15:11:16+08:00 ] 180.153.214.191 /index.php/Back/Goods/list/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T15:11:17+08:00 ] 180.153.214.191 /index.php/Back/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-05-14T15:11:22+08:00 ] 123.112.232.13 /index.php/Back/Ask/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-05-14T15:11:31+08:00 ] 101.226.33.225 /index.php/Back/Ask/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-05-14T16:33:57+08:00 ] 123.112.232.13 /Back/Ask/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-05-14T16:34:04+08:00 ] 123.112.232.13 /index.php/Back/Ask/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-05-14T16:34:06+08:00 ] 101.226.125.111 /Back/Ask/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T16:34:19+08:00 ] 123.112.232.13 /index.php/Back/Ask/list/filed/create_at/type/asc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-05-14T16:34:20+08:00 ] 123.112.232.13 /index.php/Back/Ask/list/filed/create_at/type/desc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-05-14T16:34:29+08:00 ] 180.153.205.252 /index.php/Back/Ask/list/filed/create_at/type/asc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-05-14T16:34:30+08:00 ] 101.226.89.119 /index.php/Back/Ask/list/filed/create_at/type/desc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>老三海鲜</title>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/myreset.css" />
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/add-address.css"/>
+		<script src="__PUBLIC__/Home/js/jquery.min.js"></script>
+		<script src="__PUBLIC__/Home/js/jquery.validate.js"></script>
+		<script src="__PUBLIC__/Home/js/tools.js"></script>
+	</head>
+
+	<body data-from="{$from}" data-goods_id="{$goods_id}" data-quantity="{$quantity}" data-recept_id="{$recept['recept_id']}">
+		<!--收货地址-->
+		<form action="" method="post" id="jsForm">
+			<ul class="delivery-address">
+				<li>
+			        <span>收货人</span>
+			        <input type="text" placeholder="收货人" id="delivery-man" name="name"  value="{$recept['recept_name']}" required data-msg-required="请输入收货人" maxlength="12" data-msg-maxlength="最多输入12个字符" />
+			      </li>
+			      <li>
+			        <span>手机号</span>
+			        <input type="text" placeholder="收货人联系电话" id="delivery-phone" name="tel" value="{$recept['tel']}" required data-rule-tm="true" data-msg-required="请输入收货人联系电话" />
+			      </li>
+				<li id="change-address">
+					<span>选择省市</span>
+			        <input type="text" disabled="disabled" name="city" id="city" required data-msg-required="请选择地址" placeholder="请选择地址" value="{$recept['province']}{$recept['city']}{$recept['country']}" />
+			        <input type="hidden" name="" value="" id="id_content" province_id="{$recept['province_id']}" city_id="{$recept['city_id']}" country_id="{$recept['country_id']}">
+				</li>
+				<li id="last-li">
+        			<textarea id="detail-address"><if condition="$recept['detail'] eq ''">请填写详细地址，例如街道等<else/>{$recept['detail']}</if></textarea>
+        			<label id="area"></label>
+        		</li>
+			</ul>
+			
+			<div class="save"><a href="javascript:;" id="save">保存</a></div>
+			<input type="submit" class="sub" id="sub" />
+		</form>
+		
+		<!--弹框-->
+		<div class="alert-bg" id="alert-bg">
+			<div class="alert-address" id="alert-address">
+				<p>请选择省/直辖市</p>
+				<ul id="provinces">
+					<volist name="province_list" id="province">
+						<li class="
+						<if condition="$province['region_id'] eq 2">li-active</if>
+						" data-region_id ={$province['region_id']}>{$province['title']}</li>
+					</volist>
+				</ul>
+			</div>
+		</div>
+		
+		<!--弹框-->
+		<div class="alert-bg" id="alert-bg2">
+			<div class="alert-address" id="alert-citys">
+				<p>请选择市/区</p>
+				<ul id="citys"></ul>
+			</div>
+		</div>
+		
+		<!--弹框-->
+		<div class="alert-bg" id="alert-bg3">
+			<div class="alert-address" id="alert-countrys">
+				<p>请选择县/镇</p>
+				<ul id="countrys"></ul>
+			</div>
+		</div>
+
+		<!--placeholder 占位元素-->
+		<div class="placeholder"></div>
+
+		<!--js-->
+		<script src="__PUBLIC__/Home/js/add-address.js"></script>
+	</body>
+
+</html>
